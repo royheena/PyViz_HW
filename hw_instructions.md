@@ -115,7 +115,7 @@ Sample Dashboard:
 
 ### Submission
 
-* Create separate notebooks for the analysis and the dashboard and upload these to Github.
+* Create separate notebooks for the analysis and the dashboard (readme) and upload these to Github.
 
 * Complete your README to explain how to run and use your dashboard.
 
