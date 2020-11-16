@@ -1,6 +1,6 @@
 # San Francisco Rental Prices Dashboard
 
-In this notebook, you will compile the visualizations from the previous analysis into functions that can be used for a Panel dashboard.
+This notebook will compile the visualizations from the previous analysis into functions that can be used for a Panel dashboard.
 
 
 ```python
@@ -74,7 +74,7 @@ df_neighborhood_locations = pd.read_csv(file_path)
 
 ## Panel Visualizations
 
-In this section, you will copy the code for each plot type from your analysis notebook and place it into separate functions that Panel can use to create panes for the dashboard. 
+This section will copy the code for each plot type from the analysis notebook and place it into separate functions that Panel can use to create panes for the dashboard. 
 
 These functions will convert the plot object to a Panel pane.
 
@@ -245,7 +245,7 @@ def neighborhood_map():
 
 ## Panel Dashboard
 
-In this section, you will combine all of the plots into a single dashboard view using Panel. Be creative with your dashboard design!
+This section will combine all of the plots into a single dashboard view using Panel.
 
 
 ```python
